@@ -1,4 +1,14 @@
 
+h1,h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+body{
+    font-family: 'Crimson Text', serif;
+}
+
+/* 
 #london{
     color: pink;
 }
@@ -10,3 +20,17 @@
 .paris.capital {
     background-color: beige;
 }
+
+.content-box{
+    background-color: pink;
+    padding: 0px 10px;
+    border-top: solid 2px black;
+    border-bottom:  solid 4px grey;
+
+}
+#myparagraph{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: lightgreen;
+    margin: 5px;
+} */
