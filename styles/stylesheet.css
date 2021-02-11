@@ -1,6 +1,12 @@
+
+#london{
+    color: pink;
+}
+
 .capital{
     color: red;
 }
 
-
-
+.paris.capital {
+    background-color: beige;
+}
